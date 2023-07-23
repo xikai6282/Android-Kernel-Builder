@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-Proton",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "repo": "https://github.com/Official-Ayrton990/android_kernel_xiaomi_sm8250",
       "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"

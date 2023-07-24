@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-Proton",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/alioth-r-oss",
-      "branch": "master",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree",
+      "branch": "alioth-r-oss",
       "device": "thyme",
       "defconfig": "yme_user_defconfig"
     },

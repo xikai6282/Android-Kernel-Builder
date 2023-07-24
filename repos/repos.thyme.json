@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Thyme-KernelSU-Proton",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "alioth-r-oss",
+      "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250",
+      "branch": "staging",
       "device": "thyme",
-      "defconfig": "thyme_user_defconfig"
+      "defconfig": "thyme_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
